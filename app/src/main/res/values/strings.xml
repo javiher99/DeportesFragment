@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Deportes</string>
+
+    <string name="btMostrar">mostrar deportista</string>
+
+    <string name="infoTenis">Rafael Nadal Parera (Manacor, Islas Baleares, 3 de junio de 1986), más conocido como Rafa Nadal, es un tenista profesional español que ocupa actualmente la primera posición del ranking ATP.
+                            Estilo de juego: El estilo de juego y la personalidad de Nadal se pueden resumir en una frase de Jimmy Connors: "Él se construyó a partir de un molde del que creo que yo también vine. Caminas, das todo lo que tienes desde el primer punto hasta el final sin importar el marcador y estás dispuesto a poner todo en juego y no tienes miedo de dejar que la gente vea eso".
+
+                            Nadal generalmente utiliza un juego agresivo, detrás de la línea de fondo fundado en fuertes golpes topspin, consistencia, juego de pies rápido y cobertura de toda la pista, lo que lo convierte en un jugador de contraataque. Conocido por su atletismo y velocidad en la pista, Nadal es un excelente defensor que golpea bien en carrera, construyendo jugadas ofensivas desde posiciones aparentemente defensivas. También utiliza dropshots muy sutiles que funcionan especialmente bien debido a que su topspin pesado a menudo obliga a jugar a los rivales al fondo de la pista.
+
+                            Nadal utiliza un golpe de derecha semioccidental, a menudo seguido de un "látigo de lazo", donde su brazo izquierdo golpea la pelota y termina sobre su hombro izquierdo, en oposición a un acabado más tradicional en todo el cuerpo o alrededor de su hombro opuesto. La forma de golpe de derecha de Nadal le permite golpear tiros con topspin pesado, más que muchos de sus contemporáneos.
+    </string>
+    <string name="infoArco">
+        Elías Cuesta Cobo es un arquero español nacido en Granada el 15 de marzo de 1983. Ha participado en los Juegos Olímpicos de Londres 2012.
+        Es hermano de Irene Cuesta, otra arquera española y entrenadora del equipo paralimpico nacional de tiro con arco.
+        Cuesta, que como deportista compitió en los Juegos Olímpicos de Londres 2012, se ha mostrado satisfecho por esa candidatura y
+        dijo a EFE que "es un orgullo que la Federación Internacional" le haya incluido en la lista, "pero todo se debe a los buenos resultados que han conseguido los arqueros durante la pasada temporada".
+    </string>
+    <string name="infoRugby">
+        Fue internacional en categorías sub 19, disputando dos copas del mundo de la categoría en Chile 2001 e Italia 2002, y sub 20. Jaime debutó con la selección el 6 de abril de 2002 a la edad de 18 años y desde entonces ha sido un habitual en las convocatorias de la selección absoluta, realizando 79 representaciones internacionales hasta la fecha. Ha sido un asiduo también en la modalidad de Rugby a VII participando en varias series y campeonatos de Europa.
+        Formó parte del equipo nacional universitario en los mundiales de Pekín 2004 y Córdoba 2008, alcanzando en este la segunda plaza del torneo en una final contra Sudáfrica.
+    </string>
+</resources>
